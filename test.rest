@@ -1,0 +1,15 @@
+###
+
+Get http://localhost:8054/api/v1/source/amazon-sales?source=rawlings
+
+###
+
+Get http://localhost:8054/api/v1/source/amazon-sales?source=richardson
+
+###
+
+Get http://localhost:8054/api/v1/source/amazon-sales?source=schutt
+
+###
+
+Get http://localhost:8054/api/v1/source/amazon-sales?source=umbro
